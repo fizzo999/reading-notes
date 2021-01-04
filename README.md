@@ -27,7 +27,7 @@ Reminder
 5. *italic*
 6. list ol (this one) 
 7. unordered list above ul 
-8. links ###a link to github portfolio pages github.com/fizzo999
+8. links .... to github portfolio pages github.com/fizzo999
 9. images - lets try that now
 
 
