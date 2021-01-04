@@ -37,5 +37,4 @@ Reminder
 # and what I learned is..... you do need the square braces infront of the image link.... []
 
 [Markdown Reading](markdownLecture01.md)
-
-
+[Coders Computer](coders_computer)
