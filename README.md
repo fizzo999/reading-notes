@@ -32,6 +32,6 @@ Reminder
 
 
 
-!(https://github.com/fizzo999/reading-notes/blob/main/LargestSandcastle.jpeg)
+!(./LargestSandcastle.jpeg)
 
 
