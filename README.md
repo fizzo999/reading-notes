@@ -36,6 +36,6 @@ Reminder
 
 # and what I learned is..... you do need the square braces infront of the image link.... []
 
-[Markdown Reading](markdown.md)
+[Markdown Reading](markdownLecture01.md)
 
 
