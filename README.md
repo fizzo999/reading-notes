@@ -20,7 +20,7 @@ Reminder
 ### a link to github portfolio pages github.com/fizzo999
 5 different features in markdown 
 
-1. header 1 
+1. # header 1 
 2. header 2 
 3. header 3 
 4. bold 
@@ -35,5 +35,7 @@ Reminder
 ![SANDCASTLE](http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
 
 # and what I learned is..... you do need the square braces infront of the image link.... []
+
+[Markdown Reading](markdown.md)
 
 
