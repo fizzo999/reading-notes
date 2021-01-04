@@ -32,6 +32,6 @@ Reminder
 
 
 
-!(http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
+![SANDCASTLE](http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
 
 
