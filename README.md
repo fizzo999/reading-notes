@@ -34,4 +34,6 @@ Reminder
 
 ![SANDCASTLE](http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
 
+# and what I learned is..... you do need the square braces infront of the image link.... []
+
 
