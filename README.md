@@ -32,6 +32,6 @@ Reminder
 
 
 
-!(./LargestSandcastle.jpeg)
+!(/LargestSandcastle.jpeg)
 
 
