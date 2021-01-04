@@ -21,10 +21,10 @@ Reminder
 5 different features in markdown 
 
 1. # header 1 
-2. header 2 
-3. header 3 
-4. bold 
-5. italic
+2. ## header 2 
+3. ### header 3 
+4. ** bold 
+5. * italic
 6. list ol (this one) 
 7. unordered list above ul 
 8. links above github
