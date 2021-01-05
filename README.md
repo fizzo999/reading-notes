@@ -36,10 +36,13 @@ Reminder
 
 # and what I learned is..... you do need the square braces infront of the image link.... []
 
+
+# Table of Contents
+[This Page](README.md)
 [Markdown Reading](markdownLecture01.md)
 [Coders Computer](coders_computer.md)
 [sessionRead02](session02Read02.md)
 [Coders Computer](coders_computer.md)
 [session03Git](session03git.md)
 
-`dragonfly`
+
