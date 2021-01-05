@@ -5,7 +5,7 @@
 
 A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
-allows you to ** write and manage text ** , especially the text that you write
+allows you to write and manage text, especially the text that you write
 to build a web site. The text editor has to be one of the most
 important tools you can use as an aspiring web developer.
 What features should you look for in a text editor? I would say some
@@ -17,7 +17,7 @@ of the most important features are:
 4. the ability to choose from a healthy selection of
 extensions available when you need them.
 
-A great feature of any text editing software is ** code completion**. Code
+A great feature of any text editing software is code completion. Code
 completion allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally
 typed. This saves you time by providing a choice, rather than allowing
@@ -29,13 +29,13 @@ closing of quotation marks when you open them, thus making sure
 you’re always writing your code.
 
 Another nice feature is being able to write your HTML and CSS more
-efficiently. There is a kind of ** shorthand language called Emmet ** that
+efficiently. There is a kind of shorthand language called Emmet that
 can help. Emmet will speed up your code writing faster than you can
 imagine. Some text editors come with Emmet built right in, or
 Emmet can be added by the means of an extension.
 
-Another feature you should definitely look into is called ** syntax
-highlighting **. Syntax highlighting is a feature that takes the text you
+Another feature you should definitely look into is called syntax
+highlighting. Syntax highlighting is a feature that takes the text you
 type, and makes it more noticeable by colorizing the text. Attributes
 are a different color than elements. And elements are a different color
 than copy. This makes it so much easier when you’re looking for an
