@@ -22,9 +22,9 @@ Your terminal probably won't have line numbers on it. I have just included them 
 
 ### pwd
 Print Working Directory - ie. Where are we currently.
-###ls
+### ls
 List the contents of a directory.
-###cd
+### cd
 Change Directories - ie. move to another directory.
 
 ### Relative path
