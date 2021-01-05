@@ -40,6 +40,6 @@ Reminder
 [Coders Computer](coders_computer.md)
 [sessionRead02](session02Read02.md)
 [Coders Computer](coders_computer.md)
-[session03Git](reading-notes/session03git.md)
+[session03Git](session03git.md)
 
 `dragonfly`
