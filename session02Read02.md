@@ -1,6 +1,6 @@
 # Chosing a text editor
 
-##What is a text editor?
+## What is a text editor?
 
 
 A text editor is a piece of software that you download and install on
@@ -11,28 +11,31 @@ important tools you can use as an aspiring web developer.
 What features should you look for in a text editor? I would say some
 of the most important features are:
 
-1.) code completion; 
-2.) syntax highlighting; 
-3.) a nice variety of themes (to reduce eye strain and fatigue); and 
-4.) the ability to choose from a healthy selection of
+1. code completion; 
+2. syntax highlighting; 
+3. a nice variety of themes (to reduce eye strain and fatigue); and 
+4. the ability to choose from a healthy selection of
 extensions available when you need them.
 
-A great feature of any text editing software is code completion. Code
+A great feature of any text editing software is ** code completion**. Code
 completion allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally
 typed. This saves you time by providing a choice, rather than allowing
 you to finish typing and possibly encounter typos.
+
 Also, some code completion includes the closing of tags when you
 open them, or the closing of brackets when you open them, or the
 closing of quotation marks when you open them, thus making sure
 you’re always writing your code.
+
 Another nice feature is being able to write your HTML and CSS more
-efficiently. There is a kind of shorthand language called Emmet that
+efficiently. There is a kind of ** shorthand language called Emmet ** that
 can help. Emmet will speed up your code writing faster than you can
 imagine. Some text editors come with Emmet built right in, or
 Emmet can be added by the means of an extension.
-Another feature you should definitely look into is called syntax
-highlighting. Syntax highlighting is a feature that takes the text you
+
+Another feature you should definitely look into is called ** syntax
+highlighting **. Syntax highlighting is a feature that takes the text you
 type, and makes it more noticeable by colorizing the text. Attributes
 are a different color than elements. And elements are a different color
 than copy. This makes it so much easier when you’re looking for an
@@ -46,37 +49,6 @@ bare bones text editors you’ll encounter.
 While you certainly can use Notepad and Text Edit to make websites,
 there are other text editors available that might help you code more
 efficiently
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # What is a command terminal ?
 
