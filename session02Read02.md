@@ -17,3 +17,17 @@ The command line typically presents you with a prompt. As you type, it will be d
 
 + Line 6 presents us with a prompt again. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
 Your terminal probably won't have line numbers on it. I have just included them here to make it easier to refer to different parts of the material.
+
+## more commands
+
+### pwd
+Print Working Directory - ie. Where are we currently.
+###ls
+List the contents of a directory.
+###cd
+Change Directories - ie. move to another directory.
+
+### Relative path
+A file or directory location relative to where we currently are in the file system.
+### Absolute path
+A file or directory location in relation to the root of the file system.
