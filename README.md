@@ -38,7 +38,7 @@ Reminder
 
 [Markdown Reading](markdownLecture01.md)
 [Coders Computer](coders_computer.md)
-[SessionRead02](Session02Read02.md)
+[sessionRead02](session02Read02.md)
 [Coders Computer](coders_computer.md)
 
 `dragonfly`
