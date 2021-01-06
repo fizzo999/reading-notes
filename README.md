@@ -20,12 +20,12 @@ My name is Fizzo [Feet:so]. I am a student at codefellows. I live in Olympia, WA
 ------------ | ------------- | ------------ | ------------ | ------------
 ------------ | ------------- | ------------ | ------------ | ------------ 
 
-[This Page](README.md) | [session03Git](session03git.md)
-[session01read01](session01read01.md) | 
-[session02versions](session02.md) | 
-[session02Read02](session02Read02.md) | 
-[Markdown Reading](markdownLecture01.md) | 
-[session01](session01.md) | 
+[This Page](README.md) | [session03Git](session03git.md) |           |           |  
+[session01read01](session01read01.md) |                  |           |           |
+[session02versions](session02.md) |                      |           |           |  
+[session02Read02](session02Read02.md) |                  |           |           |   
+[Markdown Reading](markdownLecture01.md) |               |           |           |
+[session01](session01.md) |                              |           |           |
 
 
 
