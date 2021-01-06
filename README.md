@@ -16,9 +16,9 @@ My name is Fizzo [Feet:so]. I am a student at codefellows. I live in Olympia, WA
 # Table of Contents
 
 
-             Monday                    |           Tuesday               |   Wednesday  |   Thursday   |   Friday 
--------------------------------------- | ------------------------------- | ------------ | ------------ | ------------
--------------------------------------- | ------------------------------- | ------------ | ------------ | ------------ 
+             Monday                 |           Tuesday               |   Wednesday  |   Thursday   |   Friday 
+----------------------------------- | ------------------------------- | ------------ | ------------ | ------------
+----------------------------------- | ------------------------------- | ------------ | ------------ | ------------ 
 [This Page](README.md)                 | [session03Git](session03git.md) |              |              |  
 [session01read01](session01read01.md)  |                                 |              |              |
 [session02versions](session02.md)      |                                 |              |              |  
