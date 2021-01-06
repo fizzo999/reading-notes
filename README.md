@@ -16,32 +16,19 @@ My name is Fizzo [Feet:so]. I am a student at codefellows. I live in Olympia, WA
 # Table of Contents
 
 
-             Monday                    |           Tuesday               |   Wednesday  |   Thursday   |   Friday
--------------------------------------- | ------------------------------- | ------------ | ------------ | ------------
--------------------------------------- | ------------------------------- | ------------ | ------------ | ------------
-[This Page](README.md)                 | [session03Git](session03git.md) |              |              |
-[session01read01](session01read01.md)  |                                 |              |              |
-[session02versions](session02.md)      |                                 |              |              |
-[session02Read02](session02Read02.md)  |                                 |              |              |
-[Markdown](markdownLecture01.md)       |                                 |              |              |
-[session01](session01.md)              |                                 |              |              |
 
++ [This Page](README.md)                
++ [session01read01](session01read01.md)  
++ [session02versions](session02.md)     
++ [session02Read02](session02Read02.md) 
++ [Markdown](markdownLecture01.md)      
++ [session01](session01.md)            
++ [session03Git](session03git.md)
 
 
 
 
 ![SANDCASTLE](http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
 
-
-# and what I learned is..... you do need the square braces infront of the image link.... []
-
-
-# Table of Contents
-[This Page](README.md)
-[Markdown Reading](markdownLecture01.md)
-[Coders Computer](coders_computer.md)
-[sessionRead02](session02Read02.md)
-[Coders Computer](coders_computer.md)
-[session03Git](session03git.md)
 
 
