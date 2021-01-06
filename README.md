@@ -24,6 +24,7 @@ My name is Fizzo [Feet:so]. I am a student at codefellows. I live in Olympia, WA
 + [Markdown](markdownLecture01.md)      
 + [session01](session01.md)            
 + [session03Git](session03git.md)
++ [html_notes_session04read](session04reading.md)
 
 
 
