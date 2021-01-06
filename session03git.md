@@ -19,7 +19,6 @@ To prevent this type of catastrophic loss, a DVCS allows clients to create mirro
 Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
 
 ## So, what is Git?
-Snapshots
 
 ** Git is a DVCS that stores data in a file system made up of snapshots. ** 
 Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
@@ -54,11 +53,6 @@ Flagged a file’s changed version to be committed in the next snapshot
 
 ![newimage6](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
-## History of Git
-Git traces its roots to the open source software project Linux kernel. Developers of this project began using a DVCS called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status. Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
-
-### Getting Started
-Download Git
 
 ### Getting Help
 There are three ways to get more information on a particular command, by accessing the manual:
@@ -99,35 +93,6 @@ To clone a repository into a directory with another name of your choosing, use t
 $ git clone https://github.com/test mydirectory
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
-### Workflow
-Local Repository Structure
-The local Git repository has three components:
-
-Working Directory: The actual files reside here.
-Index: The area used for staging
-Head: Points to the most recent commit
-
-![](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
-
-### Saving Changes
-All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
-
-### Tracked
-
-Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
-
-### Untracked
-
-Untracked files were not in the last snapshot and do not currently reside in the staging area.
-
-*After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
-
-The Life Cycle of File Status
-After you edit a file, Git flags it as modified because of changes made after the previous commit.
-You stage the modified file.
-Then, you commit staged changes.
-
-![](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 
 Check File Status
 To determine the state of files, utilize the git status command:
@@ -179,7 +144,20 @@ Next, you would push changes to a remote repository. We will discuss remote repo
 
 Example:
 
-$ git push origin master
-*This command pushes changes from the local “master” branch to the remote repository named “origin”.
+$ git push origin main
+*This command pushes changes from the local “main” branch to the remote repository named “origin”.
 
-*For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
+*For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “main” to your local repository. However, these names can be changed by the user.
+
+# Summary
+
+# ACP
+
+# inside the correct directory (../Documents/projects/102)
+# git clone http://www.github.....
+# cd newdirectory
+## command prompt will switch to main
+# git status
+# git add .
+# git commit -m "description of what is being added"
+# git push origin main
