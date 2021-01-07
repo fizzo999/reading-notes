@@ -20,11 +20,15 @@ My name is Fizzo [Feet:so]. I am a student at codefellows. I live in Olympia, WA
 + [This Page](README.md)                
 + [session01read01](session01read01.md)  
 + [session02versions](session02.md)     
++ [session01](session01.md)     
 + [session02Read02](session02Read02.md) 
 + [Markdown](markdownLecture01.md)      
 + [session01](session01.md)            
 + [session03Git](session03git.md)
 + [html_notes_session04read](session04reading.md)
++ [session05CSS_Color](session05CSS.md)
++ [session06a_JS](session06aJS.md)
++ [session06b_computer](session06bcomp.md)
 
 
 
