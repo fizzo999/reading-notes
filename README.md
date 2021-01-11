@@ -37,4 +37,10 @@ My name is Fizzo [Feet:so] Pannosch. I am a student at codefellows. I live in Ol
 ![SANDCASTLE](http://www.chooseyourmetaphor.com/wp-content/uploads/2015/03/sandcastle3.jpg)
 
 
+...so why is there a sandcastle picture ? not just visual candy - everyone like the beach - but a metaphor - to stay childlike playful open genius.
+
+
+In that playful state the future readily flows through ones mind AND one is playfully open to explore it, experience it, learn from it and laugh, happily and light heartedly.
+
+
 
