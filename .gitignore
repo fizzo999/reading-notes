@@ -1,0 +1,9 @@
+# private files
+201-session-00.md
+
+# Logs
+logs
+*.log
+
+# Optional eslint cache
+.eslintcache
