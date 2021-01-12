@@ -36,5 +36,44 @@ html (head, body(header(nav),main(section (article(hgroup)),(article(hgroup)),as
 ### From the Duckett JS book:
 
 #### Introduction
-+ JS allows to change the content of an html page while it is loaded in the browser; access, modify, program the rules/instructions, react to eventstriggered by user or browser;
++ JS allows to change the content of an html page while it is loaded in the browser; access, modify, program the rules/instructions, react to events triggered by user or browser;
+
 #### JS Chapter 1: “The ABC of Programming” (pp.11-52)
+#### A what is a script? How do I create one? for a webpage?
++ a script is like a resipes/handbook/manual - series of instructions that a computer follows to achieve a goal.
++ each time the script runs it might only use a subset of all the instructions
++ computers approach tasks in a different way than humans, so your instructions must let the computer solve the tasks programmatically
+1. define the goal
+1. design the script
+1. code each step
+flowchart on page 18 and another one on page 23;
+learn to think how computers think - solving problems programmatically;
+
+
+#### B how do computers fit in with the world around them ?
+computers create models of the world using data;
+objects can have their own:
++ properties (name and value);
++ events (triggered by user input or webpage itself);
++ methods (like a function - what interpreter does with objects);
+
+webbrowsers create models of what they display - of the web page that are shown and of the window it is shown in;
+the document object represents an html page;
+using the document object, you can access and change what content users see on the page and respond to how they interact with it; that document object has properties, methods, events;
+also creates a new object for each element on the page;
+see the DOM document object model;
+
+![image of Duckett DOM and hierarchy](013JS-DOMmodel.PNG);
+
+browser receives html code - creates a model of the page and stores it - it has a hierarchy (document - html - head - title+link,....) - elements, text, attributes... - it uses a rendering engine to show that page on the screen(CSS);
+
+#### C How do I write a script for a webpage
+layered - html - css - javascript; progressive enhancements;
+![image of Duckett JS example document.write](014JSdocumentWriteExample.PNG);
+```<script src="js/add-content.js"></scriptEND>;```
+does NOT show in source code - but the link does to js file
+```<script>document.write('<h3>Welcome!</h3>')</script>;```
+
+![image of Duckett document.Write](015JSdocumentWrite.PNG)
+
+
