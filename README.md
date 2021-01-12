@@ -14,7 +14,9 @@ My name is Fizzo [Feet:so] Pannosch. I am a student at codefellows. I live in Ol
 + [html_notes_session04read](/102/session04reading.md)
 + [session05CSS_Color](/102/session05CSS.md)
 + [session06a_JS](/102/session06aJS.md)
-+ [session06b_computer](/102/session06bcomp.md)
++ [session07_computer](/102/session07.md)
++ [session08_computer](/102/session08Loops.md)
++ [session10_computer](/102/session10.md)
 
 ### Code 201 reading-notes
 + [201-session01](/201/201-session-01.md)

@@ -9,7 +9,7 @@ HTML uses elements to describe the structure of pages; tags (elements) act like 
 tags `<p attributes Name(lang) and Value(="en-us")>`; attributes tell us more about the element; they have a name and a value;
 
 #### HTML Chapter 8: “Extra Markup” (p.176-199)
-+ starts with !DOCTYPE - ref basic structure - html (head, body(header(nav),main(section, article, aside),footer));
++ starts with !DOCTYPE html tells the browser you are using the latest version - ref basic structure - html (head, body(header(nav),main(section, article, aside),footer));
 + comments `<!--comment here-->` ignored by interpreter;
 + id (only 1 per page) and class (multiple times per page) attributes for element tags;
 + block elements take up all the space (per line) they can and cause a line break after;
@@ -17,7 +17,7 @@ tags `<p attributes Name(lang) and Value(="en-us")>`; attributes tell us more ab
 + div tags group text and elements in a block;
 + span tags group text and elements inline;
 + iframes create a window in a window (think google maps);
-+ meta tags add meta data - not displayed (think search optim, keywords, robots; description that shows up in tab ontop);
++ meta tags add meta data - not displayed (think search optimization, keywords, robots; description that shows up in tab ontop);
 + escape characters (think `&copy; &lt; &gt;` )
 
 #### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
@@ -36,4 +36,5 @@ html (head, body(header(nav),main(section (article(hgroup)),(article(hgroup)),as
 ### From the Duckett JS book:
 
 #### Introduction
++ JS allows to change the content of an html page while it is loaded in the browser; access, modify, program the rules/instructions, react to eventstriggered by user or browser;
 #### JS Chapter 1: “The ABC of Programming” (pp.11-52)

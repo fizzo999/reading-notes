@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="keyword 1, keyword 2, keyword 3">
+
+  <title>Class 01</title>
+  <style>
+    body {
+      background: #fff;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      width: 50%;
+      margin: 3rem auto;
+      text-align: center;
+      font-size: 4rem;
+    }
+
+    p {
+      border: 1px solid black;
+      border-radius: 10px;
+      width: 50%;
+      padding: 2rem;
+      margin: 2rem auto;
+      font-size: 2rem;
+      text-align: center;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header>
+
+  </header>
+  <main>
+    <h1>Class 1 Lab</h1>
+
+    <p style="color:#fff;background-color: #333;">What is your name ?</p>
+    <p style="color:rgb(233, 250, 1);background-color: rgb(72, 73, 55);">Which state do you live in ?</p>
+    <p style="color:rgb(1, 6, 250);background-color: rgb(154, 233, 167);">Which city do you live in ?</p>
+    <p style="color:rgb(3, 3, 3);background-color: rgb(252, 104, 252);">What is your favorite dish ?</p>
+
+
+  </main>
+  <footer>
+
+  </footer>
+  <script>
+    var userName = prompt('What is your name ?');
+    console.log('What is your name ?: ' + userName);
+    var userState = prompt('Which state do you live in ?');
+    console.log('Which state do you live in ?: ' + userState);
+    var userCity = prompt('Which city do you live in ?');
+    console.log('Which city do you live in ?: ' + userCity);
+    var userDish = prompt('What is your favorite dish ?');
+    console.log('What is your favorite dish ?: ' + userDish);
+    alert('Excellent ! ' + userName + ', you live in ' + userCity + ', ' + userState + '. And you love ' + userDish);
+    alert('Great job, ' + userName + ' ! Go reward yourself and order some of your favorite ' + userDish + ' take-out in ' + userCity);
+  </script>
+</body>
+
+</html>

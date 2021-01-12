@@ -1,0 +1,497 @@
+    1  wsl -l -v
+    2  mv
+    3  mv --help
+    4  mv ~/.bashrc .bashrc.bak
+    5  mv ~/.bash_profile .bash_profile.bak
+    6  mv ~/.profile .profile.bak
+    7  mv ~/.zshrc .zshrc.bak
+    8  mv ~/.bashrc .bashrc.bak
+    9  mv ~/.bash_profile .bash_profile.bak
+   10  mv ~/.bashrc .bashrc.bak
+   11  mv ~/.bash_profile .bash_profile.bak
+   12  mv ~/.profile .profile.bak
+   13  mv ~/.zshrc .zshrc.bak
+   14  curl -s https://raw.githubusercontent.com/codefellows/setup-guide/master/configs/.profile >> ~/.profile
+   15  exit
+   16  source ~/.profile
+   17  sudo apt-get update
+   18  sudo apt-get upgrade
+   19  sudo apt autoremove
+   20  sudo apt-get install build-essential
+   21  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   22  test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)
+   23  test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+   24  brew doctor
+   25  brew install gcc
+   26  brew install nvm
+   27  exit
+   28  logout
+   29  node --version
+   30  tree
+   31  nmp --version
+   32  npm --version
+   33  ls -la ~root/
+   34  ls -la
+   35  chdir
+   36  ls
+   37  cd /#d Objects
+   38  cd /3D Objects
+   39  cd Cookies
+   40  ls
+   41  cd low
+   42  ls
+   43  cd..
+   44  cd ..
+   45  cd ..
+   46  cd cookies/low , ls -la
+   47  ls -la ~user/cookies/low
+   48  ls -la cookies/low
+   49  node --version
+   50  npm --version
+   51  nvm install 12
+   52  nvm ls
+   53  node --version
+   54  node
+   55  git --version
+   56  git config --global core.editor "code --wait"
+   57  git config --global user.name 'FIZZO PANNOSCH'
+   58  git config --global user.email 'fizzo999@gmail.com'
+   59  git config --global core.editor "code --wait"
+   60  brew install tree
+   61  tree --version
+   62  live-server --version
+   63  npm install -g live-server
+   64  live-server --version
+   65  npm install -g eslint
+   66  eslint --version
+   67  code .
+   68  code --version
+   69  code --version
+   70  git --version
+   71  node --version
+   72  eslint --version
+   73  tree --version
+   74  brew --version
+   75  echo $PS1
+   76  git config --list
+   77  npm --version
+   78  echo $PS1
+   79  cat ~/.gitconfig
+   80  ls
+   81  cd "My Documents"
+   82  cd ..
+   83  cd Documents
+   84  ls
+   85  mkdir projects
+   86  ls
+   87  cd projects
+   88  pwd
+   89  mkdir 102
+   90  cd 102
+   91  pwd
+   92  git clone https://github.com/fizzo999/hello-world.git
+   93  ls
+   94  cd hello-world
+   95  ls
+   96  code .
+   97  git status
+   98  git add .
+   99  git status
+  100  git commit -m "I am adding the new version and the image"
+  101  git status
+  102  git push origin main
+  103  git push origin main
+  104  ls
+  105  pwd
+  106  cd ~
+  107  pwd
+  108  ls
+  109  ls -a
+  110  cd -
+  111  cd ~
+  112  cd /mnt/c/Users/User/Documents
+  113  pwd
+  114  ls
+  115  mkdir 102
+  116  ls
+  117  cd 102
+  118  ls
+  119  ls -a
+  120  git clone https://github.com/fizzo999/reading-notes.git
+  121  ls
+  122  code .
+  123  git add .
+  124  git
+  125  git commit -m "table of contents"
+  126  ls
+  127  cd Documents
+  128  ls
+  129  cd 102
+  130  git clone https://github.com/fizzo999/reading-notes.git
+  131  ls
+  132  git add .
+  133  git
+  134  git init
+  135  git add .
+  136  git rm --cached reading-notes
+  137  cd ..
+  138  ls
+  139  cd projects
+  140  ls
+  141  cd 102
+  142  ls
+  143  ls -a
+  144  cd hello-world
+  145  ls -a
+  146  cd..
+  147  cd ..
+  148  ls
+  149  git clone https://github.com/fizzo999/reading-notes.git
+  150  ls
+  151  cd reading-notes
+  152  ls
+  153  cd ..
+  154  code .
+  155  ls
+  156  cd reading-notes
+  157  add .
+  158  git status
+  159  git add .
+  160  git commit -m "added table of content"
+  161  git push origin main
+  162  git push origin main
+  163  git push origin main
+  164  git status
+  165  ls -a
+  166  git status
+  167  cd ..
+  168  ls
+  169  git status
+  170  ls
+  171  git clone https://github.com/fizzo999/millennium_falcon.git
+  172  ls
+  173  cd millennium_falcon
+  174  ls
+  175  code .
+  176  touch index.html
+  177  ls
+  178  cd ..
+  179  ls -a
+  180  git clone https://github.com/fizzo999/romanfieldequipment.git
+  181  ls
+  182  cd r
+  183  cd romanfieldequipment/
+  184  touch index.html
+  185  code .
+  186  git status
+  187  git add .
+  188  git commit -m "new index uploaded"
+  189  git push origin main
+  190  touch .gitignore
+  191  code .gitignore
+  192  git status
+  193  git add .
+  194  git commit -m "changed the links navbar and stuff"
+  195  git push origin main
+  196  git push origin main
+  197  ls
+  198  cd Documents/
+  199  cd projects/
+  200  cd 102
+  201  ls
+  202  cd reading-notes/
+  203  ls
+  204  code .
+  205  git status
+  206  git add .
+  207  git status
+  208  git commit -m "main readme.md updated table of contents only"
+  209  git push origin main
+  210  git --version
+  211  cd ..
+  212  ls
+  213  cd romanfieldequipment/
+  214  ls
+  215  code .
+  216  git status
+  217  git add .
+  218  git commit -m "image size improved"
+  219  git push origin main
+  220  cd Documents/
+  221  cd projects/
+  222  ls
+  223  cd 102
+  224  ls
+  225  cd romanfieldequipment/
+  226  ls
+  227  code .
+  228  git status
+  229  git add .
+  230  git commit -m "changed to original requirements"
+  231  git push origin main
+  232  git status
+  233  git add .
+  234  git commit -m "link to pretty site"
+  235  git push origin main
+  236  cd ..
+  237  cd reading-notes/
+  238  git pull
+  239  ls
+  240  rm README.md 
+  241  rm session01.md
+  242  git pull
+  243  git add README.md
+  244  git add session01.md
+  245  git pull
+  246  ls
+  247  cd ..
+  248  cd romanfieldequipment/
+  249  git status
+  250  git add .
+  251  git commit -m "display fix 2 just do it with inline and inline-block"
+  252  git push origin main
+  253  cd ..
+  254  ls
+  255  git clone https://github.com/codefellows/seattle-102d22.git
+  256  cd seattle-102d22/
+  257  cd class06
+  258  ls
+  259  class-06
+  260  cd class-06
+  261  ls
+  262  cd starter-code/
+  263  ls
+  264  code .
+  265  mkdir c01
+  266  cd ../../..
+  267  ls
+  268  cd romanfieldequipment/
+  269  ls
+  270  pwd
+  271  mkdir js
+  272  code .
+  273  echo
+  274  git status
+  275  git add .
+  276  git commit -m 'javascriptx3 added'
+  277  git push origin main
+  278  cd ..
+  279  ls
+  280  cd reading-notes/
+  281  ls
+  282  rm -i .
+  283  rm -i *.*
+  284  ls
+  285  ls -a
+  286  rm .git
+  287  rm -rv .git
+  288  ls
+  289  ls -a
+  290  cd ..
+  291  rm -rv reading-notes/
+  292  git clone https://github.com/fizzo999/reading-notes.git
+  293  cd reading-notes/
+  294  ls
+  295  code .
+  296  git status
+  297  git add .
+  298  git commit -m "new rec css computers js"
+  299  git push origin main
+  300  ls
+  301  code .
+  302  git add .
+  303  git commit -m "table of contents in read me"
+  304  git push origin main
+  305  ls
+  306  cd Documents/projects/102/romanfieldequipment/
+  307  code .
+  308  git add .
+  309  git commit -m "color changer made to work yay"
+  310  git push origin main
+  311  ls
+  312  cd Documents/projects/102/
+  313  ls
+  314  cd reading-notes/
+  315  code .
+  316  cd ..
+  317  cd romanfieldequipment/
+  318  code .
+  319  cd ..
+  320  cd reading-notes/
+  321  code .
+  322  touch session08Loops.md
+  323  cd ..
+  324  cd romanfieldequipment/
+  325  code .
+  326  git config --global credential.helper cache
+  327  git status
+  328  git add .
+  329  git commit -m "js new update - how many pictures querry"
+  330  git push origin main
+  331  code .
+  332  ls
+  333  mv index.html Oldindex.html
+  334  ls
+  335  mv index002.html index.html
+  336  ls
+  337  mv 'index003 - Copy.html' Oldindex002.html
+  338  ls
+  339  mv 'style003 - Copy.css' style003.css
+  340  ls
+  341  code .
+  342  code .
+  343  rm -rf .
+  344  ls -a
+  345  rm -rf
+  346  ls
+  347  ls -a
+  348  rm -r .git
+  349  ls
+  350  rm *
+  351  ls
+  352  rm -r js
+  353  ls
+  354  cd ..
+  355  rm romanfieldequipment/
+  356  rm -r romanfieldequipment/
+  357  ls
+  358  git clone https://github.com/fizzo999/romanfieldequipment.git
+  359  cd rom
+  360  cd romanfieldequipment/
+  361  ls
+  362  mkdir oldfiles
+  363  mv index oldfiles/
+  364  mv index.html oldfiles/
+  365  ls
+  366  cd oldfiles/
+  367  ls
+  368  cd ..
+  369  mv 'index003 - Copy.html' oldfiles/index003.html
+  370  ls
+  371  mv 'style003 - Copy.css' oldfiles/style003.css
+  372  ls
+  373  rm favicon.ico 
+  374  ls
+  375  mv index001.html oldfiles/
+  376  ls
+  377  code .
+  378  git add .
+  379  git commit -m "clean up files -rename index file"
+  380  git push origin main
+  381  cd ..
+  382  cd reading-notes/
+  383  code .
+  384  git status
+  385  git add .
+  386  git commit -m "sess07 nice"
+  387  git push origin main
+  388  c d Documents/projects/102
+  389  cd Documents/projects/102/
+  390  cd reading-notes/
+  391  code .
+  392  cd ..
+  393  cd romanfieldequipment/
+  394  code .
+  395  eslint --version
+  396  cd Documents/projects/102/romanfieldequipment/
+  397  git status
+  398  git add .
+  399  git commit -m "got that picture counter figured out and updated"
+  400  git push origin main
+  401  cd Documents/projects/102/reading-notes/
+  402  ls
+  403  touch 201-session-{01..15}.md
+  404  ls
+  405  git status
+  406  git add .
+  407  git commit -m 'added all session 201 files empty changed table of contents with active links'
+  408  git push origin main
+  409  git status
+  410  git add .
+  411  git commit -m 'improve README.md explain the sandcastle - message to self'
+  412  fizzo999
+  413  git push origin main
+  414  git pull
+  415  git status
+  416  git add .
+  417  git commit
+  418  git push origin main
+  419  cd Documents/projects/102/reading-notes/
+  420  ls
+  421  touch .gitignore
+  422  code .
+  423  git status
+  424  git add .
+  425  ls
+  426  git status
+  427  git commit -m 'sess01 reading notes complied and uploaded - still need to finish last chapter html and js"
+  428  exit
+  429  quit
+  430  abort
+  431  "
+  432  '
+  433  git commit -m '01 complied and uploaded - need to do last chapter html plus js'
+  434  ls
+  435  git push origin main
+  436  ls -a
+  437  cd Documents/projects/102/reading-notes/
+  438  ls
+  439  mkdir 201
+  440  mkdir 102
+  441  mv 201-session-{00..15}.md /201/201-session-{00..15}.md
+  442  mv 201-session-{00..15}.md 201/201-session-{00..15}.md
+  443  ls
+  444  cd 201
+  445  ls
+  446  ls
+  447  cd ..
+  448  mv 201-session-{00..15}.md ../201/201-session-{00..15}.md
+  449  mv 201-session-{00..15}.md 201/
+  450  ls
+  451  cd 201
+  452  ls
+  453  cd ..
+  454  ls
+  455  mv LargestSandcastle.jpeg 102/
+  456  mv coders_computer.md 102/
+  457  mv markdownLecture01.md 102/
+  458  mv session01.md 102/
+  459  mv session01read01.md 102/
+  460  mv session02.md 102/
+  461  mv session02read02.md 102/
+  462  mv session03git.md 102/
+  463  mv session04reading.md 102/
+  464  mv session05CSS.md 102/
+  465  mv session06aJS.md 102/
+  466  mv session06bcomp.md 102/
+  467  mv session07.md 102/
+  468  mv session08Loops.md 102/
+  469  mv session10.md 102/
+  470  ls
+  471  cd 102
+  472  cd ..
+  473  cd 201
+  474  ls
+  475  cd ..
+  476  cd ..
+  477  cd ..
+  478  mkdir 201
+  479  cd 201
+  480  cd ..
+  481  cd 102
+  482  ls
+  483  cd reading-notes/
+  484  ls
+  485  ls -a
+  486  code README.md 
+  487  git status
+  488  git add .
+  489  git commit -m 'created 2 new directories and put 102 and 201 files into it'
+  490  git push origin main
+  491  ls
+  492  cd Documents/projects/102/reading-notes/
+  493  tree
+  494  pwd
+  495  ls -la
+  496  code README.md 
+  497  history >> testfile.txt
