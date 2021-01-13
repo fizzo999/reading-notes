@@ -31,6 +31,14 @@
       font-size: 2rem;
       text-align: center;
     }
+
+    .answer {
+      background: coral;
+      color: black;
+      font-weight: 900;
+      border: 3px solid black;
+
+    }
   </style>
 
 </head>
@@ -63,6 +71,7 @@
     console.log('What is your favorite dish ?: ' + userDish);
     alert('Excellent ! ' + userName + ', you live in ' + userCity + ', ' + userState + '. And you love ' + userDish);
     alert('Great job, ' + userName + ' ! Go reward yourself and order some of your favorite ' + userDish + ' take-out in ' + userCity);
+    document.write('<p class=\"answer\">' + 'Great job, ' + userName + ' ! Go reward yourself and order some of your favorite ' + userDish + ' take-out in ' + userCity + '</P>');
   </script>
 </body>
 
