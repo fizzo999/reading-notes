@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background: grey;
+}
+div {
+  /* display: inline-block; */
+  float: left;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  background: black;
+  color: red;
+  border: 10px solid pink;
+  /* margin: 50px 25px 15px 5px; */
+  /* margin: 20px; */
+}
+
+p {
+  /* clearing the floated elements property */
+  /* clear:both; */
+  clear: left;
+  /* clear: right; */
+}
