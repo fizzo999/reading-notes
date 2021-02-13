@@ -1,0 +1,33 @@
+.top-div {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.inner-div {
+  width: 100px;
+  margin: 0 auto;
+  height: 200px;
+  background-color: cornsilk;
+  text-align: center;
+}
+
+/* .top-div {
+  width: 200px;
+  position: relative;
+  background-color: blue;
+  height: 200px;
+}
+
+.inner-div {
+  width: 100px;
+  position: absolute;
+  background-color: chartreuse;
+  left: 50%;
+  top: 50%;
+} */
+
+/* h1 {
+  border-width: 5px;
+  border: dashed blue;
+} */
