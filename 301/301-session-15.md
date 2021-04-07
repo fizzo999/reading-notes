@@ -8,6 +8,7 @@ Review the data: [Employee breakdown of key technology companies](https://inform
 
 ### <center>![Employee breakdown of key technology companies](2061.PNG)</center>
 
+
 wow gotta look at these graphs - women in congress 7%
 Ask the question: [Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 more diverse teams bring more perspective to any effort. And therefore increase the bottom line. But also the quality of products, services and solutions.
