@@ -6,12 +6,12 @@ My name is Fizzo [Feet:so] Pannosch. I am a student at codefellows. I live in Ol
 
 ### Code 401 Advanced Software Development
 
-| Assignments                               | Title |
-| ----------------------------------------- | ----- |
-| + [401-session01](/401/401-session-01.md) |
-| + [401-session02](/401/401-session-02.md) |
-| + [401-session03](/401/401-session-03.md) |
-| + [401-session04](/401/401-session-04.md) |
+| Assignments                               | Title                      |
+| ----------------------------------------- | -------------------------- |
+| + [401-session01](/401/401-session-01.md) | Node Ecosystem, TDD, CI/CD |
+| + [401-session02](/401/401-session-02.md) | Express                    |
+| + [401-session03](/401/401-session-03.md) | Express REST API           |
+| + [401-session04](/401/401-session-04.md) | Data Modeling              |
 | + [401-session05](/401/401-session-05.md) |
 | + [401-session06](/401/401-session-06.md) |
 | + [401-session07](/401/401-session-07.md) |
