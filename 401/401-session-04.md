@@ -125,3 +125,9 @@ organizes elements of data and standardizes how they relate to one another and t
 
 - https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
 - https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+
+<hr>
+
+## Linked List
+
+

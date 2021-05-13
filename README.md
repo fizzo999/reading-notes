@@ -12,15 +12,15 @@ My name is Fizzo [Feet:so] Pannosch. I am a student at codefellows. I live in Ol
 | + [401-session02](/401/401-session-02.md) | Express                    |
 | + [401-session03](/401/401-session-03.md) | Express REST API           |
 | + [401-session04](/401/401-session-04.md) | Data Modeling              |
-| + [401-session05](/401/401-session-05.md) |
-| + [401-session06](/401/401-session-06.md) |
-| + [401-session07](/401/401-session-07.md) |
-| + [401-session08](/401/401-session-08.md) |
-| + [401-session09](/401/401-session-09.md) |
-| + [401-session10](/401/401-session-10.md) |
-| + [401-session11](/401/401-session-11.md) |
-| + [401-session12](/401/401-session-12.md) |
-| + [401-session13](/401/401-session-13.md) |
+| + [401-session05](/401/401-session-05.md) | null                       |
+| + [401-session06](/401/401-session-06.md) | Authentication - Basic     |
+| + [401-session07](/401/401-session-07.md) | Bearer Auth                |
+| + [401-session08](/401/401-session-08.md) | ACL Access Control List    |
+| + [401-session09](/401/401-session-09.md) | Stacks and Queues          |
+| + [401-session10](/401/401-session-10.md) | null                       |
+| + [401-session11](/401/401-session-11.md) | Event Driven Applications  |
+| + [401-session12](/401/401-session-12.md) | socket.io                  |
+| + [401-session13](/401/401-session-13.md) | Message Queues - socket.io |
 | + [401-session14](/401/401-session-14.md) |
 | + [401-session15](/401/401-session-15.md) |
 | + [401-session16](/401/401-session-16.md) |
