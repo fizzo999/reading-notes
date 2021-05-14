@@ -26,7 +26,7 @@ My name is Fizzo [Feet:so] Pannosch. I am a student at codefellows. I live in Ol
 | + [401-session16](/401/401-session-16.md) | AWS: Cloud Servers          |
 | + [401-session17](/401/401-session-17.md) | AWS: S3 and Lambda          |
 | + [401-session18](/401/401-session-18.md) | AWS: API, Dynamo and Lambda |
-| + [401-session19](/401/401-session-19.md) |
+| + [401-session19](/401/401-session-19.md) | AWS: Events                 |
 | + [401-session20](/401/401-session-20.md) |
 | + [401-session21](/401/401-session-21.md) |
 | + [401-session22](/401/401-session-22.md) |
